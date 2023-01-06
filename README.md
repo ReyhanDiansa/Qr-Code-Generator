@@ -3,6 +3,10 @@
 Website untuk membuat Qr Code
 ## Installation
 
+## Documentation
+
+![App Screenshot](https://github.com/ReyhanDiansa/Qr-Code-Generator/blob/main/src/assets/images/docum.png)
+
 Install package with npm
 
 ```bash
@@ -38,10 +42,6 @@ Install package with npm
 Reyhan Marsalino Diansa - [@reyhanmd._](https://instagram.com/reyhanmd._) - reyhandiansa@gmail.com
 
 Project Link: [https://github.com/reyhandiansa/Qr-Code-Generator](https://github.com/reyhandiansa/Qr-Code-Generator)
-
-## Documentation
-
-![App Screenshot](https://github.com/ReyhanDiansa/Qr-Code-Generator/blob/main/src/assets/images/docum.png)
 
 
 ## Deployment
